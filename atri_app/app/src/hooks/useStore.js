@@ -43,10 +43,10 @@ const desktopModeProps = {
     "Div3": {
       "callbacks": {}
     },
-    "header_flex": {
+    "flex1": {
       "callbacks": {}
     },
-    "nav_flex": {
+    "flex2": {
       "callbacks": {}
     },
     "Flex4": {
@@ -79,6 +79,9 @@ const desktopModeProps = {
     "Flex8": {
       "callbacks": {}
     },
+    "Div27": {
+      "callbacks": {}
+    },
     "Flex11": {
       "callbacks": {}
     },
@@ -109,6 +112,9 @@ const desktopModeProps = {
     "Div17": {
       "callbacks": {}
     },
+    "Div28": {
+      "callbacks": {}
+    },
     "Flex20": {
       "callbacks": {}
     },
@@ -131,6 +137,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex161": {
+      "callbacks": {}
+    },
+    "Div29": {
       "callbacks": {}
     },
     "Flex38": {
@@ -220,6 +229,9 @@ const desktopModeProps = {
     "Flex85": {
       "callbacks": {}
     },
+    "Div30": {
+      "callbacks": {}
+    },
     "Flex86": {
       "callbacks": {}
     },
@@ -230,6 +242,33 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex90": {
+      "callbacks": {}
+    },
+    "Div32": {
+      "callbacks": {}
+    },
+    "Flex168": {
+      "callbacks": {}
+    },
+    "Flex172": {
+      "callbacks": {}
+    },
+    "Flex167": {
+      "callbacks": {}
+    },
+    "Flex169": {
+      "callbacks": {}
+    },
+    "Flex170": {
+      "callbacks": {}
+    },
+    "Flex171": {
+      "callbacks": {}
+    },
+    "Flex173": {
+      "callbacks": {}
+    },
+    "Div33": {
       "callbacks": {}
     },
     "Flex93": {
@@ -278,6 +317,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex107": {
+      "callbacks": {}
+    },
+    "Div34": {
       "callbacks": {}
     },
     "Flex113": {
@@ -331,6 +373,9 @@ const desktopModeProps = {
     "Flex131": {
       "callbacks": {}
     },
+    "Div35": {
+      "callbacks": {}
+    },
     "Flex133": {
       "callbacks": {}
     },
@@ -350,6 +395,9 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex140": {
+      "callbacks": {}
+    },
+    "Div36": {
       "callbacks": {}
     },
     "Flex141": {
@@ -377,27 +425,6 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex149": {
-      "callbacks": {}
-    },
-    "Flex168": {
-      "callbacks": {}
-    },
-    "Flex172": {
-      "callbacks": {}
-    },
-    "Flex167": {
-      "callbacks": {}
-    },
-    "Flex169": {
-      "callbacks": {}
-    },
-    "Flex170": {
-      "callbacks": {}
-    },
-    "Flex171": {
-      "callbacks": {}
-    },
-    "Flex173": {
       "callbacks": {}
     },
     "Image2": {
@@ -1527,6 +1554,206 @@ const desktopModeProps = {
         ]
       }
     },
+    "TextBox166": {
+      "custom": {
+        "text": "What our clients say"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox167": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image89": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/left-arrow-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image90": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/right-arrow-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox168": {
+      "custom": {
+        "text": "\"You must try these burgers\""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox169": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipiscing massa gravida nisi cras enim quis nibholm varius amet gravida ut facilisis neque egestas."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image83": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image84": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image85": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image86": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image87": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/star-svgrepo-com.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image88": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/face1.jpg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox170": {
+      "custom": {
+        "text": "Matt Cannon"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox172": {
+      "custom": {
+        "text": "San Diego, CA"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button17": {
+      "custom": {
+        "text": "Order online"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button18": {
+      "custom": {
+        "text": "Book a table"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
     "TextBox96": {
       "custom": {
         "text": "Our articles"
@@ -2431,206 +2658,6 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/616da2c3a17185be94e60f4b_Instagram-03-restaurante-x-template-p-500.jpeg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox166": {
-      "custom": {
-        "text": "What our clients say"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox167": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit ugue quam diam vitae velit bibendum elementum."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image89": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/left-arrow-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image90": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/right-arrow-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox168": {
-      "custom": {
-        "text": "\"You must try these burgers\""
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox169": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitilmim semper adipiscing massa gravida nisi cras enim quis nibholm varius amet gravida ut facilisis neque egestas."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image83": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image84": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image85": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image86": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image87": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/star-svgrepo-com.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image88": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/face1.jpg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox170": {
-      "custom": {
-        "text": "Matt Cannon"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox172": {
-      "custom": {
-        "text": "San Diego, CA"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button17": {
-      "custom": {
-        "text": "Order online"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button18": {
-      "custom": {
-        "text": "Book a table"
       },
       "callbacks": {
         "onClick": [
